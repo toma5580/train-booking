@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ mysql-connector-java-5.1.47-bin.jar Stadium+Manage
+ ment+System.jar
+Class-Path: .
+Rsrc-Main-Class: User.UserLogin
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
